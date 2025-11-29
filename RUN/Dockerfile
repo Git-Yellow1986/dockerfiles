@@ -1,2 +1,2 @@
 FROM almalinx:9
-RUN dnf install -y 
+RUN dnf install nginx -y 
